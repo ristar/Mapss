@@ -1,0 +1,21 @@
+<RelativeLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+
+ android:orientation="horizontal"
+
+ android:layout_width="fill_parent"
+
+ android:layout_height="fill_parent">
+
+<com.google.android.maps.MapView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mapview"
+    android:layout_height="fill_parent"
+    android:clickable="true"
+    android:apiKey="0oNzE9b2YiMqaaJCcslA_cUPpzym99jbJgnSkeQ"
+     android:layout_width="fill_parent"/>
+
+</RelativeLayout>
+
+
+
